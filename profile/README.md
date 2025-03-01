@@ -32,7 +32,7 @@ Also see:
 
 [Code of Conduct](../CODE_OF_CONDUCT.md)
 
-[Project Planning](https://github.com/orgs/hololinked-dev/projects/4)
+[Project Planning](https://github.com/orgs/hololinked-dev/projects)
 
 [Donating](https://github.com/sponsors/VigneshVSV)
 
