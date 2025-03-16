@@ -36,18 +36,11 @@ Also see:
 
 [Donating](https://github.com/sponsors/VigneshVSV)
 
-[Discord](https://discord.com/invite/kEz87zqQXh) (which is mostly empty)
+[Website](https://hololinked.dev)
 
+[Discord](https://discord.com/invite/kEz87zqQXh) (which is mostly empty)
 
 Discussions & Q&A to be opened here: 
 - [General Discussions about the entire project](https://github.com/orgs/hololinked-dev/discussions)
 - Each repository can their own discussions as well which is more specific 
 - Discord
-
-
-
-
-
-
-
-
