@@ -17,6 +17,9 @@ Only the security is not yet implemented yet (except SSL and rejecting unknown c
 
 Anyway, for the above stated requirements, `hololinked` is the right choice. Dont put together a myriad of python tools and protocols to build your own server just because you can do that in python. Broad minded choices have already been taken for you, that is, if you are willing to stick to object oriented paradigm.
 
+`pip install hololinked`
+`conda install -c conda-forge hololinked`
+
 Also see: 
 
 [Documentation](https://hololinked.readthedocs.io/en/latest/)
