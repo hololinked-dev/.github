@@ -4,7 +4,7 @@ Hi there 👋
 
 `hololinked` solves the following requirement in python:
 - You want to remotely control, monitor and retrieve data from one or many measurement devices and hardware
-- You want to use known web technologies like HTTP protocol and JSON data format but have the flexibility to go beyond them when necessary. For example - you can use message pack or pickle for streaming complex n-D numpy arrays frame by frame efficiently at high speed and simply use interprocess communication instead of HTTP for a desktop-only app.
+- You want to use known web technologies like HTTP protocol and JSON data format but have the flexibility to go beyond them when necessary. For example - you can use message pack or pickle for streaming complex n-D numpy arrays frame by frame efficiently at high speed.
 - Object Oriented coding style and zero initial setup - a python script can expose your device
 - If you are really advanced in your coding skills, you are looking for a well defined (web-)API to interact with your device 
 - If you are only a beginner, you really want to build your knowledge systematically in an easy to understand format without worrying about the underlying complexity. You can start with simple devices talking over interprocess communication and may be write a PyQt or matplotlib script to visualize the data retrieved. You can think about building a web interface or using "APIs" later.
