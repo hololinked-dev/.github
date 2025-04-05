@@ -1,0 +1,3 @@
+[submodule "gitlab-profile"]
+	path = gitlab-profile
+	url = https://gitlab.com/hololinked/gitlab-profile.git
