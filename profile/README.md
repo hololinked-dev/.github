@@ -38,9 +38,13 @@ Also see:
 
 [Website](https://hololinked.dev)
 
-[Discord](https://discord.com/invite/kEz87zqQXh) (which is mostly empty)
+[![Discord](https://img.shields.io/discord/1265289049783140464?label=Discord%20Members&logo=discord)](https://discord.com/invite/kEz87zqQXh)
+(which is mostly empty) <br>
+Monthly meetings are held on first wednesday of every month at 1600hrs until 1700hrs German time (CET). In these meetings, I will be discussing the project, its future, technical ideas, issue planning, assignment and review etc.
+Any other discussions or Q&A happen on following wednesdays every week at 1700hrs German time (CET) and 0900hrs German time alternatively for approx 1hr duration.
+Feel free to join the meetings, there is no any real participation from community as of time being and I am trying to kick-start it. Link to meeting in discord group or send email to admin@hololinked.dev.
 
-Discussions & Q&A to be opened here: 
+Discussions & Q&A can also be opened here: 
 - [General Discussions about the entire project](https://github.com/orgs/hololinked-dev/discussions)
-- Each repository can their own discussions as well which is more specific 
+- Each repository have their own discussions section as well which is more specific 
 - Discord
