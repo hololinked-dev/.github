@@ -48,3 +48,5 @@ Discussions & Q&A can also be opened here:
 - [General Discussions about the entire project](https://github.com/orgs/hololinked-dev/discussions)
 - Each repository have their own discussions section as well which is more specific 
 - Discord
+
+[Gitlab Repositories](https://gitlab.com/hololinked)
