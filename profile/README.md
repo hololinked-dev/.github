@@ -45,6 +45,8 @@ Monthly meetings are held on the first Wednesday of every month at 1600hrs until
 Any other discussions or Q&A happen on following wednesdays every week at 1700hrs German time (CET) and 0900hrs German time alternatively for approx 1hr duration.
 Feel free to join the meetings, there is no any real participation from community as of time being and I am trying to kick-start it. Link to meeting in discord group or send email to admin@hololinked.dev.
 
+If you would like to added to organisation, please contribute to some issues or join the weekly discussions. I will be happy to add you to the organisation. 
+
 Discussions & Q&A can also be opened here: 
 - [General Discussions about the entire project](https://github.com/orgs/hololinked-dev/discussions)
 - Each repository have their own discussions section as well which is more specific 
