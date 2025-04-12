@@ -38,8 +38,9 @@ Also see:
 
 [Website](https://hololinked.dev)
 
-[![Discord](https://img.shields.io/discord/1265289049783140464?label=Discord%20Members&logo=discord)](https://discord.com/invite/kEz87zqQXh)
 <a id="monthly-meetings"></a>
+
+[![Discord](https://img.shields.io/discord/1265289049783140464?label=Discord%20Members&logo=discord)](https://discord.com/invite/kEz87zqQXh)
 
 Monthly meetings are held on the first Wednesday of every month at 1600hrs until 1700hrs German time (CET). In these meetings, I will be discussing the project, its future, technical ideas, issue planning-assignment-review etc.
 Any other discussions or Q&A happen on following wednesdays every week at 1700hrs German time (CET) and 0900hrs German time alternatively for approx 1hr duration.
@@ -51,5 +52,16 @@ Discussions & Q&A can also be opened here:
 - [General Discussions about the entire project](https://github.com/orgs/hololinked-dev/discussions)
 - Each repository have their own discussions section as well which is more specific 
 - Discord
+
+<a id="good-first-issues"></a>
+
+For good first issues, visit repository wise:
+- [hololinked](https://github.com/hololinked-dev/hololinked/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
+- [thing control panel](https://github.com/hololinked-dev/thing-control-panel/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
+- [website](https://github.com/hololinked-dev/website/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
+- [examples](https://github.com/hololinked-dev/examples/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
+- [documentation](https://github.com/hololinked-dev/docs-v2/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
+
+<a id="gitlab-section"></a>
 
 [Gitlab Repositories](https://gitlab.com/hololinked)
