@@ -43,10 +43,16 @@ Also see:
 [![Discord](https://img.shields.io/discord/1265289049783140464?label=Discord%20Members&logo=discord)](https://discord.com/invite/kEz87zqQXh)
 
 Monthly meetings are held on the first Wednesday of every month at 1600hrs until 1700hrs German time (CET). In these meetings, I will be discussing the project, its future, technical ideas, issue planning-assignment-review etc.
-Any other discussions or Q&A happen on following wednesdays every week at 1700hrs German time (CET) and 0900hrs German time alternatively for approx 1hr duration.
-Feel free to join the meetings, there is no any real participation from community as of time being and I am trying to kick-start it. Link to meeting in discord group or send email to admin@hololinked.dev.
 
-If you would like to added to organisation, please contribute to some issues or join the weekly discussions. I will be happy to add you to the organisation. 
+Any other discussions or Q&A, issue reviews or discussions happen on following wednesdays every week at 1700hrs German time (CET) and 0900hrs German time alternatively for approx 1hr duration. 
+
+Feel free to join the meetings, no question is a dumb question. There is no any real participation from community as of time being and I am trying to kick-start it. Link to meeting in discord group or send email to admin@hololinked.dev.
+
+<a target="_blank" href="https://calendar.google.com/calendar/embed?src=3d5d7524047fb738b474d09d67c4456646160a770c0d92e5c493297777a85be6%40group.calendar.google.com&ctz=Europe%2FBerlin"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en-GB.gif" alt="Google Calendar"></a>
+
+[Calendar ICS](https://calendar.google.com/calendar/ical/3d5d7524047fb738b474d09d67c4456646160a770c0d92e5c493297777a85be6%40group.calendar.google.com/public/basic.ics)
+
+If you would like to added to organisation, please contribute to some issues or join the weekly discussions. I will be happy to add you to the organisation. If you are already contributing and would like to be added, just write to me in discord or by email. 
 
 Discussions & Q&A can also be opened here: 
 - [General Discussions about the entire project](https://github.com/orgs/hololinked-dev/discussions)
