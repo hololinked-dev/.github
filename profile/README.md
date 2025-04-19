@@ -20,6 +20,8 @@ Anyway, for the above stated requirements, `hololinked` is the right choice. Don
 `pip install hololinked`
 `conda install -c conda-forge hololinked`
 
+<a id="all-links"></a>
+
 Also see: 
 
 [Documentation](https://hololinked.readthedocs.io/en/latest/)
