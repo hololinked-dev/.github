@@ -73,6 +73,7 @@ For good first issues, visit repository wise:
 - [examples](https://github.com/hololinked-dev/examples/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [documentation](https://github.com/hololinked-dev/docs-v2/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) (issues temporarily suspended)
 - [kubernetes](https://github.com/hololinked-dev/vps-kubernetes-cluster/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
+- [additional](https://github.com/hololinked-dev/.github/issues)
 
 <a id="gitlab-section"></a>
 
