@@ -20,6 +20,9 @@ Anyway, for the above stated requirements, `hololinked` is the right choice. Don
 `pip install hololinked`
 `conda install -c conda-forge hololinked`
 
+> **Note:**
+> Currently there are discussions to donate part of the codebase to the [Web of Things](https://www.w3.org/WoT/) community. This may result in some changes to the package name (to `wotpy`) and the arrangement of features. If you are using this package, please be aware of this. 
+
 <a id="all-links"></a>
 
 Also see: 
@@ -64,7 +67,7 @@ Discussions & Q&A can also be opened here:
 <a id="good-first-issues"></a>
 
 For good first issues, visit repository wise:
-- [hololinked](https://github.com/hololinked-dev/hololinked/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
+- [hololinked](https://github.com/hololinked-dev/hololinked/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) (issues currently suspended, please consider other repos)
 - [thing control panel](https://github.com/hololinked-dev/thing-control-panel/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [website](https://github.com/hololinked-dev/website/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [examples](https://github.com/hololinked-dev/examples/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
