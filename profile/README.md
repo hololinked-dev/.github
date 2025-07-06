@@ -23,9 +23,6 @@ Only the security is not yet implemented yet (except SSL and rejecting unknown c
 `pip install hololinked`
 `conda install -c conda-forge hololinked`
 
-> **Note:**
-> Currently there are discussions to donate part of the codebase to the [Web of Things](https://www.w3.org/WoT/) community. This may result in some changes to the package name (to `wotpy`) and the arrangement of features. If you are using this package, please be aware of this. 
-
 <a id="all-links"></a>
 
 Also see: 
@@ -86,7 +83,6 @@ We currently spend over 110€ per month on average, for hosting, design and oth
 - [Github Sponsors](https://github.com/sponsors/VigneshVSV)
 - [Open Collective](https://opencollective.com/hololinked-dev)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/vigneshvsv)
-
 
 <a id="gitlab-section"></a>
 
