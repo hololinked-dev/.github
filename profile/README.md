@@ -15,7 +15,10 @@ Hi there 👋
 
 Only the security is not yet implemented yet (except SSL and rejecting unknown clients by IP which are supported) and as far as protocols are concerned, HTTP and ZMQ is supported, but improvements are on the roadmap and should be out in the very near future. 
 
-Anyway, for the above stated requirements, `hololinked` is the right choice. Dont put together a myriad of python tools and protocols to build your own server just because you can do that in python. Broad minded choices have already been taken for you, that is, if you are willing to stick to object oriented paradigm.
+> **⚠️ UPDATE June 2025:**  
+> Currently there are discussions to donate part of the codebase to the [Web of Things](https://www.w3.org/WoT/) community. This may result in some changes to the package name (to `wotpy`) and the arrangement of features.
+
+<!-- Anyway, for the above stated requirements, `hololinked` is the right choice. Dont put together a myriad of python tools and protocols to build your own server just because you can do that in python. Broad minded choices have already been taken for you, that is, if you are willing to stick to object oriented paradigm. -->
 
 `pip install hololinked`
 `conda install -c conda-forge hololinked`
@@ -33,11 +36,11 @@ Also see:
 
 [Examples](https://github.com/hololinked-dev/examples)
 
-[Contribution Guidelines](../CONTRIBUTING.md) if you wish to join, I am actively looking for contributors  
+[Contribution Guidelines](../CONTRIBUTING.md) for all projects except the server runtime `hololinked`, I am actively looking for contributors. For `hololinked`, please get in touch with the web of things community to contribute - [Discord](https://discord.com/invite/JXY2Jzefz3).
 
 [Code of Conduct](../CODE_OF_CONDUCT.md)
 
-[Project Planning](https://github.com/orgs/hololinked-dev/projects)
+<!-- [Project Planning](https://github.com/orgs/hololinked-dev/projects) -->
 
 [Donating](https://github.com/sponsors/VigneshVSV)
 
@@ -74,6 +77,16 @@ For good first issues, visit repository wise:
 - [documentation](https://github.com/hololinked-dev/docs-v2/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) (issues temporarily suspended)
 - [kubernetes](https://github.com/hololinked-dev/vps-kubernetes-cluster/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [additional](https://github.com/hololinked-dev/.github/issues)
+
+<a id="funding"></a>
+
+Consider funding the project if you like it and want to see it grow to its full potential and be maintained for a long time.
+We currently spend over 110€ per month on average, for hosting, design and other services.
+
+- [Github Sponsors](https://github.com/sponsors/VigneshVSV)
+- [Open Collective](https://opencollective.com/hololinked-dev)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/vigneshvsv)
+
 
 <a id="gitlab-section"></a>
 
