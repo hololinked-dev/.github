@@ -13,7 +13,7 @@ Hi there 👋
 - Fully open source
 - High level implementation where the underlying logic can be easily inspected and modified
 
-Only the security is not yet implemented yet (except SSL and rejecting unknown clients by IP which are supported) and as far as protocols are concerned, HTTP and ZMQ is supported, but improvements are on the roadmap and should be out in the very near future. 
+Only the security is not yet implemented yet (except SSL and basic username and password) and as far as protocols are concerned, HTTP and ZMQ is supported, but improvements are on the roadmap and should be out in the very near future. 
 
 > **⚠️ UPDATE June 2025:**  
 > Currently there are discussions to donate part of the codebase to the [Web of Things](https://www.w3.org/WoT/) community. This may result in some changes to the package name (to `wotpy`) and the arrangement of features. The development will be continued actively nevertheless.
@@ -33,7 +33,8 @@ Also see:
 
 [Examples](https://github.com/hololinked-dev/examples)
 
-[Contribution Guidelines](../CONTRIBUTING.md) for all projects except the server runtime `hololinked`, I am actively looking for contributors. For `hololinked`, please get in touch with the web of things community to contribute - [Discord](https://discord.com/invite/JXY2Jzefz3).
+[Contribution Guidelines](../CONTRIBUTING.md) 
+
 
 [Code of Conduct](../CODE_OF_CONDUCT.md)
 
@@ -81,8 +82,9 @@ Consider funding the project if you like it and want to see it grow to its full 
 We currently spend over 110€ per month on average, for hosting, design and other services.
 
 - [Github Sponsors](https://github.com/sponsors/VigneshVSV)
-- [Open Collective](https://opencollective.com/hololinked-dev)
+- [Paypal](https://paypal.me/vvigneshvs)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/vigneshvsv)
+- [Open Collective](https://opencollective.com/hololinked-dev)
 
 <a id="gitlab-section"></a>
 
