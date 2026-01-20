@@ -1,5 +1,7 @@
 ## hololinked
 
+[Project Website](https://hololinked.dev/)
+
 Hi there 👋
 
 `hololinked` solves the following requirement in python:
@@ -12,11 +14,6 @@ Hi there 👋
 - Interoperability with other systems and languages through an upcoming web standard called [Web of Things](https://www.w3.org/WoT/) (WoT)
 - Fully open source
 - High level implementation where the underlying logic can be easily inspected and modified
-
-Only the security is not yet implemented yet (except SSL and basic username and password) and as far as protocols are concerned, HTTP and ZMQ is supported, but improvements are on the roadmap and should be out in the very near future. 
-
-> **⚠️ UPDATE June 2025:**  
-> Currently there are discussions to donate part of the codebase to the [Web of Things](https://www.w3.org/WoT/) community. This may result in some changes to the package name (to `wotpy`) and the arrangement of features. The development will be continued actively nevertheless.
 
 <!-- Anyway, for the above stated requirements, `hololinked` is the right choice. Dont put together a myriad of python tools and protocols to build your own server just because you can do that in python. Broad minded choices have already been taken for you, that is, if you are willing to stick to object oriented paradigm. -->
 
@@ -41,24 +38,6 @@ Also see:
 <!-- [Project Planning](https://github.com/orgs/hololinked-dev/projects) -->
 
 [Donating](https://github.com/sponsors/VigneshVSV)
-
-[Website](https://hololinked.dev)
-
-<a id="monthly-meetings"></a>
-
-[![Discord](https://img.shields.io/discord/1265289049783140464?label=Discord%20Members&logo=discord)](https://discord.com/invite/kEz87zqQXh)
-
-Monthly meetings are held on the first Wednesday of every month at 1600hrs until 1700hrs German time (CET). In these meetings, I will be discussing the project, its future, technical ideas, issue planning-assignment-review etc.
-
-Any other discussions or Q&A, issue reviews or discussions happen on following wednesdays every week at 1700hrs German time (CET) and 0900hrs German time alternatively for approx 1hr duration. 
-
-Feel free to join the meetings, no question is a dumb question. There is no any real participation from community as of time being and I am trying to kick-start it. Link to meeting in discord group or send email to admin@hololinked.dev.
-
-<a target="_blank" href="https://calendar.google.com/calendar/embed?src=3d5d7524047fb738b474d09d67c4456646160a770c0d92e5c493297777a85be6%40group.calendar.google.com&ctz=Europe%2FBerlin"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en-GB.gif" alt="Google Calendar"></a>
-
-[Calendar ICS](https://calendar.google.com/calendar/ical/3d5d7524047fb738b474d09d67c4456646160a770c0d92e5c493297777a85be6%40group.calendar.google.com/public/basic.ics)
-
-If you would like to added to organisation, please contribute to some issues or join the weekly discussions. I will be happy to add you to the organisation. If you are already contributing and would like to be added, just write to me in discord or by email. 
 
 Discussions & Q&A can also be opened here: 
 - [General Discussions about the entire project](https://github.com/orgs/hololinked-dev/discussions)
