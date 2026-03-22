@@ -15,7 +15,7 @@ Hi there 👋
 - Fully open source
 - High level implementation where the underlying logic can be easily inspected and modified
 
-<!-- Anyway, for the above stated requirements, `hololinked` is the right choice. Dont put together a myriad of python tools and protocols to build your own server just because you can do that in python. Broad minded choices have already been taken for you, that is, if you are willing to stick to object oriented paradigm. -->
+For the above stated requirements, `hololinked` is the right choice. Dont put together a myriad of python tools and protocols to build your own server just because you can do that in python or your AI agent can do that for you.
 
 `pip install hololinked`
 `conda install -c conda-forge hololinked`
@@ -32,12 +32,13 @@ Also see:
 
 [Contribution Guidelines](../CONTRIBUTING.md) 
 
-
 [Code of Conduct](../CODE_OF_CONDUCT.md)
 
 <!-- [Project Planning](https://github.com/orgs/hololinked-dev/projects) -->
 
 [Donating](https://github.com/sponsors/VigneshVSV)
+
+[![Discord](https://img.shields.io/discord/1265289049783140464?label=Discord%20Members&logo=discord)](https://discord.com/invite/kEz87zqQXh)
 
 Discussions & Q&A can also be opened here: 
 - [General Discussions about the entire project](https://github.com/orgs/hololinked-dev/discussions)
@@ -49,10 +50,8 @@ Discussions & Q&A can also be opened here:
 For good first issues, visit repository wise:
 - [hololinked](https://github.com/hololinked-dev/hololinked/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [thing control panel](https://github.com/hololinked-dev/thing-control-panel/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
-- [website](https://github.com/hololinked-dev/website/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [examples](https://github.com/hololinked-dev/examples/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [documentation](https://github.com/hololinked-dev/docs-v2/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
-- [kubernetes](https://github.com/hololinked-dev/vps-kubernetes-cluster/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [additional](https://github.com/hololinked-dev/.github/issues)
 
 <a id="funding"></a>
